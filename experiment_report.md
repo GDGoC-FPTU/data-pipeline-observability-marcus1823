@@ -17,9 +17,9 @@ Chạy `agent_simulation.py` với 2 bộ dữ liệu và ghi lại kết quả:
 
 ---
 
-## 2. Phân tích & nhận xét
+## 2. Phân tích & nhận xét (Phan tich & nhan xet)
 
-### Tại sao Agent trả lời sai khi dùng Garbage Data?
+### Tại sao Agent trả lời sai khi dùng Garbage Data? (Tai sao Agent tra loi sai?)
 
 Khi sử dụng `garbage_data.csv`, Agent trả lời sai vì dữ liệu đầu vào chứa nhiều vấn đề nghiêm trọng mà không hề được kiểm tra (validate) trước khi đưa vào pipeline:
 
